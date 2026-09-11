@@ -6,8 +6,6 @@ public class CelsiusTable {
             double Celsius = 0.55556 * (Fahrenheit - 32);
             System.out.println("Fahrenheit = " + Fahrenheit + "\nCelsius = " + Celsius);
             Fahrenheit--;
-        }
-            
-        
+        }  
     }
 }
