@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Christian Edwards
+- Week:02
+- Lab:03
+- Date:9/11
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [Y] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,31 +20,31 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool:GitHub Copilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: Exponents, Any errors, printf
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+Response: used Math.pow(,), Printf and %.2f, it gave me suggestions, and told me where i went wrong
 
 ## Testing and Verification
 
 Explain how you tested the code and confirmed that the AI assistance was accurate.
 
-Response:
+Response: Asked ? on error messages and it gave feedback on where i was wrong
 
 ## What I Learned
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: Math.pow(), printf
 
 ## Summary
 
